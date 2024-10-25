@@ -2,9 +2,10 @@ public class GitRunner {
 
 
     public static  void main(String[] args){
+        System.out.println("Hello this is cp 101");
         System.out.println("Bye world");
         System.out.println("This code is bad");
-        int hello1 = 0;
+        int hello1 = 5;
         hello1+=8;
         if (hello1 == 5) {
             System.out.println("Winner");
